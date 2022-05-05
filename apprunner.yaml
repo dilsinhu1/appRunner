@@ -1,0 +1,23 @@
+product: 1.0.0
+
+info:
+  name: example_product
+  title: Example Product
+  version: 1.0.0
+  description: This is an example Product.
+  contact: 
+    name: Eva Smith
+    url: 'http://example.com/contact'
+    email: esmith@example.com
+  license:
+    name: Example License
+    url: 'http://example.com/license'
+  termsOfService: This service is an example only
+
+visibility:
+   view:
+      enabled: true
+      type: public
+   subscribe:
+      enabled: true
+      type: authenticated
